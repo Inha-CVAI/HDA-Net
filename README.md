@@ -12,7 +12,7 @@ H&E-stained images (HSIs) are widely adopted for revealing cellular structures a
 ## Experiment Results
 
 ### Seen Clinical Settings Results
-![Screenshot from 2023-11-26 16-16-13](https://github.com/BlindReview922/MADGNet/assets/142275582/30767364-13a7-43b1-8b00-dff7aa531e7d)
+![Seen Domain Result](https://github.com/user-attachments/assets/da25243f-c3c5-43a4-ba35-3b9ad2b28615)
 
 ### Unseen Clinical Settings Results
 ![Screenshot from 2023-11-26 16-15-44](https://github.com/BlindReview922/MADGNet/assets/142275582/cef29e7d-5c41-4c82-9f9a-45c45de46cb9)
