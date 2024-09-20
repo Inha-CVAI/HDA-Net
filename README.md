@@ -9,6 +9,14 @@ H&E-stained images (HSIs) are widely adopted for revealing cellular structures a
 ## Overall Architecture of HDA-Net
 ![HDANet](https://github.com/user-attachments/assets/24690788-e15f-49a8-bb66-d73eae778091)
 
+## Experiment Results
+
+### Seen Clinical Settings Results
+![Screenshot from 2023-11-26 16-16-13](https://github.com/BlindReview922/MADGNet/assets/142275582/30767364-13a7-43b1-8b00-dff7aa531e7d)
+
+### Unseen Clinical Settings Results
+![Screenshot from 2023-11-26 16-15-44](https://github.com/BlindReview922/MADGNet/assets/142275582/cef29e7d-5c41-4c82-9f9a-45c45de46cb9)
+
 # Bibtex
 
 ```
